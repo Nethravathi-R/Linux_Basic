@@ -1,0 +1,5 @@
+This will extract only files with the extension .png from the archive file.tar. 
+The wildcards option tells tar to interpret wildcards in the name of the files to be extracted; the filename (*.png) 
+is enclosed in single-quotes to protect the wildcard (*) from being expanded incorrectly by the shell.
+
+The is moon is so bright in night. 

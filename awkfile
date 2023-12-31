@@ -1,0 +1,8 @@
+readwrite  c user   group  size MM   D TIME  F_NAME
+-rw-rw-r-- : 1 ubuntu ubuntu    0 Dec  4 14:20 awkfile
+-rw-rw-r-x : 1 ubuntu ubuntu   89 Dec  2 01:18 cutfile
+drwxrwxr-x : 3 ubuntu ubuntu 4096 Dec  2 09:28 day1
+-rw-rw-r-- : 1 ubuntu ubuntu  164 Dec  4 00:58 day1file
+-rw-rw-r-- : 1 ubuntu ubuntu  254 Dec  2 10:00 day1file.txt
+drwxrwxr-x : 3 ubuntu ubuntu 4096 Dec  2 16:24 dir2
+

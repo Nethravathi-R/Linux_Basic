@@ -1,0 +1,12 @@
+readwrite  c user   group  size MM   D TIME  F_NAME
+-rw-rw-r-- 1 ubuntu ubuntu    0 Dec  4 14:20 awkfile
+-rw-rw-r-x 1 ubuntu ubuntu   89 Dec  2 01:18 cutfile
+drwxrwxr-x 3 ubuntu ubuntu 4096 Dec  2 09:28 day1
+-rw-rw-r-- 1 ubuntu ubuntu  164 Dec  4 00:58 day1file
+-rw-rw-r-- 1 ubuntu ubuntu  254 Dec  2 10:00 day1file.txt
+drwxrwxr-x 3 ubuntu ubuntu 4096 Dec  2 16:24 dir2
+-rw-rw-r-- 1 ubuntu ubuntu  255 Dec  2 15:08 dir2filecopy
+-rw-rw-r-- 1 ubuntu ubuntu    0 Dec  2 09:25 empty.txt
+-rw-rw-r-- 1 ubuntu ubuntu  293 Dec  2 10:28 grep.txt
+drwxrwxr-x 3 ubuntu ubuntu 4096 Dec  2 10:38 grepfolder
+drwxrwxr-x 3 ubuntu ubuntu 4096 Dec  2 02:16 v1
